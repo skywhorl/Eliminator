@@ -42,6 +42,7 @@ For reference, this video is at 2x speed.
 케이디님 채널 : <a href="https://www.youtube.com/watch?v=EdsVx9yN2Cc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>   
   
 그래서 프로젝트 내의 일부 에셋들(이미지, 코드)은 케이디님께서 영상 및 링크에 제공하신 내용들로 제작되었습니다.  
+해당 팀 프로젝트는 유감스럽게도 미완성으로 끝나 따로 실행파일을 만들지 않았고 플레이 시 1층만 클리어 하면 게임이 끝나게 됩니다.  
 * 게임 플레이 영상 : <a href="https://youtu.be/s1jrc-IGG98"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
   
 참고로, 해당 영상은 2배속입니다.  
