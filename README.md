@@ -26,7 +26,7 @@ For reference, this video is at 2x speed.
 
 * Story(Sorry, This game only support Korean If you have any questions in this game, please refer to the inquiry email below.  
   * This game is just escape from school solving the riddles  
-  * But, there are hidden way : 
+  * But, there are hidden way : <a href="https://youtu.be/FdIkzHch8lI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
     
     
   I hope you enjoy this game :)  
